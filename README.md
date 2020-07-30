@@ -17,7 +17,7 @@ Theoretically should front-end only with identical notebook as run from local ma
 
 This repo is just messing around with this original word embedded work by these authors:
 CITATION¶
-@misc{padarian2019geovec, title={GeoVec}, url={https://osf.io/4uyeq}, DOI={10.17605/OSF.IO/4UYEQ}, publisher={OSF}, author={Padarian, José and Fuentes, Ignacio}, year={2019} }
+@misc{padarian2019geovec, title={GeoVec}, url={https://osf.io/4uyeq}, DOI={10.17605/OSF.IO/4UYEQ}, publisher={OSF}, author={Padarian, José and Fuentes, Ignacio}, year={2019} }z
 
 Article
 @misc{padarian2019word, title={Word embeddings for application in geosciences: development, evaluation and examples of soil-related concepts}, url={https://doi.org/10.5194/soil-2018-44} DOI={10.5194/soil-2018-44}, publisher={Copernicus GmbH}, author={Padarian, José and Fuentes, Ignacio}, year={2019}, journal={SOIL Discuss} }
