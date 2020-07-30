@@ -9,7 +9,9 @@ Pay attention to .gitignore file as otherwise your git can be clogged with files
 
 Use this notebook, not the other one: Exploration of GeoVec Word Embeddings & Parsed English Only Version.ipynb
 
-Theoretically should front-end only with identical notebook as run from local machine but there's some bug I haven't figured out yet: https://justingosses.github.io/geoVec-playground/embedding-projector-standalone/embedding-projector-standalone-master/
+Theoretically should front-end only with identical notebook as run from local machine but there's some bug I haven't figured out yet!!!!: https://justingosses.github.io/geoVec-playground/embedding-projector-standalone/embedding-projector-standalone-master/
+
+For now, quickest way to see the embedding is to clone this repo and run from source folder `python3 -m http.server http://0.0.0.0:8000/embedding-projector-standalone/embedding-projector-standalone-master/`
 
 
 ![Image of Silt in Embedding Projector](images/silt.png)
