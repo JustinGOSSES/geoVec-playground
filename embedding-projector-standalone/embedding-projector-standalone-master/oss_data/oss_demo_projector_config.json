@@ -1,4 +1,6 @@
-{"embeddings": [
-		 {"tensorName": "Iris", "tensorShape": [150, 4], "tensorPath": "oss_data/iris_tensors.bytes", "metadataPath": "oss_data/iris_labels.tsv"},
-	{"tensorName": "GeoVec", "tensorShape": [88626, 300], "tensorPath": "oss_data/vecs.tsv", "metadataPath": "oss_data/metadata1.tsv"}
-	], "modelCheckpointPath": "Demo datasets"}
+{
+  "embeddings": [
+		 {"tensorName": "Iris", "tensorShape": [150, 4], "tensorPath": "oss_data/iris_tensors.bytes", "metadataPath": "oss_data/iris_labels.tsv"}		
+	],
+	"modelCheckpointPath": "Demo datasets"
+}
