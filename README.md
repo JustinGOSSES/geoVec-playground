@@ -1,13 +1,11 @@
 # geoVec-playground
 playground for exploring geoVec pre-trained glove model of geoscience embeddings
 
-paper: https://soil.copernicus.org/articles/5/177/2019/soil-5-177-2019.html
-
-Data file link: https://osf.io/4uyeq/wiki/home/
 
 Pay attention to .gitignore file as otherwise your git can be clogged with files that are too big!
 
-Use this notebook, not the other one: Exploration of GeoVec Word Embeddings & Parsed English Only Version.ipynb
+#### Use this notebook, not the other one: Exploration of GeoVec Word Embeddings & Parsed English Only Version.ipynb
+
 
 Theoretically should front-end only with identical notebook as run from local machine but there's some bug I haven't figured out yet!!!! and the size of the embedding file requires git large file service, which has now stopped working on any repositories for me even though I have data left before the cap, fun. 
 
@@ -21,7 +19,13 @@ Alternatively, you can load the notebook and run through it, specifically this o
 ![Image of Silt in Embedding Projector](images/silt.png)
 
 
-This repo is just messing around with this original word embedded work by these authors:
+
+
+## This repo is just messing around with this original word embedded work by these authors:
+paper: https://soil.copernicus.org/articles/5/177/2019/soil-5-177-2019.html
+
+Data file link: https://osf.io/4uyeq/wiki/home/
+
 CITATION¶
 @misc{padarian2019geovec, title={GeoVec}, url={https://osf.io/4uyeq}, DOI={10.17605/OSF.IO/4UYEQ}, publisher={OSF}, author={Padarian, José and Fuentes, Ignacio}, year={2019} }z
 
