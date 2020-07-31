@@ -23,6 +23,9 @@ Alternatively, you can load the notebook and run through it, specifically this o
 
 ## This repo is just messing around with this original word embedded work by these authors:
 paper: https://soil.copernicus.org/articles/5/177/2019/soil-5-177-2019.html
+article of interest: https://towardsdatascience.com/deep-learning-and-soil-science-part-1-8c0669b18097
+researchgate: https://www.researchgate.net/publication/341342446_3D_lithological_mapping_of_borehole_descriptions_using_word_embeddings
+phd thesis: https://ses.library.usyd.edu.au/bitstream/handle/2123/22081/Padarian_J_thesis.pdf?sequence=1&isAllowed=y 
 
 Data file link: https://osf.io/4uyeq/wiki/home/
 
