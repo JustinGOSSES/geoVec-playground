@@ -29,6 +29,9 @@ phd thesis: https://ses.library.usyd.edu.au/bitstream/handle/2123/22081/Padarian
 
 Data file link: https://osf.io/4uyeq/wiki/home/
 
+See gloVe-test example for the basic idea.
+
+
 CITATION¶
 @misc{padarian2019geovec, title={GeoVec}, url={https://osf.io/4uyeq}, DOI={10.17605/OSF.IO/4UYEQ}, publisher={OSF}, author={Padarian, José and Fuentes, Ignacio}, year={2019} }z
 
