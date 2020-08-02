@@ -39,3 +39,9 @@ Article
 @misc{padarian2019word, title={Word embeddings for application in geosciences: development, evaluation and examples of soil-related concepts}, url={https://doi.org/10.5194/soil-2018-44} DOI={10.5194/soil-2018-44}, publisher={Copernicus GmbH}, author={Padarian, José and Fuentes, Ignacio}, year={2019}, journal={SOIL Discuss} }
 
 Data file of the pretrained emb
+
+
+Windows 10 Notes for anyone doing further investigation:
+some sage advice for glove installation
+pip install glove==1.0.0
+(after trying builds and installation in visual studio developer prompts etc etc)
